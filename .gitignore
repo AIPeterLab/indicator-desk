@@ -1,0 +1,8 @@
+.env
+.env.local
+.agents/
+.codex/
+qa/
+data/raw/
+logs/
+scripts/__pycache__/

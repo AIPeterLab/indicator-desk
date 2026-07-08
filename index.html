@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Indicator Desk | Technical Bear-Market Breadth</title>
+  <meta name="description" content="Technical bear-market breadth dashboard for SPY, QQQ, IWM, and XLG.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>Indicator Desk</h1>
+      <p>Technical bear-market breadth across major US equity baskets</p>
+    </div>
+    <div class="meta">
+      <span id="lastUpdated">Latest run</span>
+      <a href="data/technical_bear_summary.csv">CSV</a>
+      <a href="data/technical_bear_summary.json">JSON</a>
+    </div>
+  </header>
+
+  <main>
+    <section class="intro">
+      <div>
+        <h2>Percent of stocks more than 20% below their 52-week high</h2>
+        <p>
+          This is a breadth indicator. It looks inside each ETF or index basket and asks how many individual stocks
+          are already in a technical bear market, even if the headline index is still near its highs.
+        </p>
+      </div>
+      <div class="formula">
+        <span>Indicator</span>
+        <strong>Stocks down 20%+ from 52-week high / valid constituents</strong>
+      </div>
+    </section>
+
+    <section class="cards" id="cards" aria-label="Current breadth readings"></section>
+
+    <section class="panel comparison">
+      <div class="section-title">
+        <div>
+          <h2>Breadth Comparison</h2>
+          <p>Higher readings mean more constituents are deeply below their own highs.</p>
+        </div>
+        <div class="legend">
+          <span><i class="dot high"></i>High</span>
+          <span><i class="dot elevated"></i>Elevated</span>
+          <span><i class="dot moderate"></i>Moderate</span>
+          <span><i class="dot low"></i>Low</span>
+        </div>
+      </div>
+      <div class="bars" id="bars"></div>
+    </section>
+
+    <section class="education">
+      <article class="panel">
+        <h2>What This Indicator Shows</h2>
+        <p>
+          A stock is in a technical bear market when it trades more than 20% below its 52-week high.
+          This dashboard counts that condition stock by stock, then reports the percentage inside each ETF basket.
+        </p>
+        <ul>
+          <li><strong>Rising percentage:</strong> weakness is spreading under the index surface.</li>
+          <li><strong>Falling percentage:</strong> more stocks are recovering from large drawdowns.</li>
+          <li><strong>Different baskets matter:</strong> mega-cap, Nasdaq, large-cap, and small-cap breadth can diverge.</li>
+        </ul>
+      </article>
+
+      <article class="panel">
+        <h2>Reading Guide</h2>
+        <div class="guide-row">
+          <strong>High: 40%+</strong>
+          <span>Broad weakness. Many stocks are already in deep drawdowns.</span>
+        </div>
+        <div class="guide-row">
+          <strong>Elevated: 30% - 39.9%</strong>
+          <span>Breadth is weakening. Watch for further deterioration or stabilization.</span>
+        </div>
+        <div class="guide-row">
+          <strong>Moderate: 15% - 29.9%</strong>
+          <span>Normal pullback zone. Use trend and credit/liquidity context.</span>
+        </div>
+        <div class="guide-row">
+          <strong>Low: below 15%</strong>
+          <span>Few stocks are deeply below highs. Can mean broad strength or concentrated leadership risk.</span>
+        </div>
+      </article>
+
+      <article class="panel">
+        <h2>Important Caveats</h2>
+        <p>
+          This is not a buy or sell signal by itself. It is a market-health gauge. A high reading can mark stress,
+          but it can also appear near capitulation. A low reading can be healthy, but it can also hide narrow mega-cap leadership.
+        </p>
+        <p>
+          Use it with trend, valuation, liquidity, credit, and your own risk rules.
+        </p>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <span>Sources: ETF issuer holdings, Invesco holdings API for QQQ/XLG, Yahoo Finance chart data for prices.</span>
+    <span>Educational use only. Not investment advice.</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
