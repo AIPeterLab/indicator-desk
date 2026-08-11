@@ -4,6 +4,8 @@ Public dashboard for technical bear-market breadth across four major ETF/index b
 
 **Website:** https://indicator.aipeterlab.com/
 
+Production is deployed automatically from `main` through Cloudflare Pages.
+
 - `SPY` - S&P 500 ETF
 - `QQQ` - Nasdaq-100 ETF
 - `IWM` - Russell 2000 ETF
