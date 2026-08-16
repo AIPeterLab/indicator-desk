@@ -65,7 +65,7 @@
       {
         "ticker": "ACN",
         "latest": 176.89,
-        "high_52w": 285.2127,
+        "high_52w": 285.2128,
         "drawdown_pct": -37.98,
         "technical_bear": true,
         "price_date": "2026-08-14",
@@ -389,8 +389,8 @@
       {
         "ticker": "ARES",
         "latest": 144.02,
-        "high_52w": 185.1141,
-        "drawdown_pct": -22.2,
+        "high_52w": 188.3062,
+        "drawdown_pct": -23.52,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -587,7 +587,7 @@
       {
         "ticker": "BLK",
         "latest": 1173.73,
-        "high_52w": 1200.5442,
+        "high_52w": 1200.5441,
         "drawdown_pct": -2.23,
         "technical_bear": false,
         "price_date": "2026-08-14",
@@ -2324,7 +2324,7 @@
       {
         "ticker": "J",
         "latest": 144.66,
-        "high_52w": 167.0709,
+        "high_52w": 167.071,
         "drawdown_pct": -13.41,
         "technical_bear": false,
         "price_date": "2026-08-14",
@@ -2540,7 +2540,7 @@
       {
         "ticker": "LII",
         "latest": 422.01,
-        "high_52w": 610.0844,
+        "high_52w": 610.0843,
         "drawdown_pct": -30.83,
         "technical_bear": true,
         "price_date": "2026-08-14",
@@ -2720,7 +2720,7 @@
       {
         "ticker": "MCO",
         "latest": 484.96,
-        "high_52w": 543.2535,
+        "high_52w": 543.2534,
         "drawdown_pct": -10.73,
         "technical_bear": false,
         "price_date": "2026-08-14",
@@ -2756,7 +2756,7 @@
       {
         "ticker": "META",
         "latest": 589.85,
-        "high_52w": 793.6488,
+        "high_52w": 793.6489,
         "drawdown_pct": -25.68,
         "technical_bear": true,
         "price_date": "2026-08-14",
@@ -3458,7 +3458,7 @@
       {
         "ticker": "PYPL",
         "latest": 61.66,
-        "high_52w": 78.5349,
+        "high_52w": 78.5348,
         "drawdown_pct": -21.49,
         "technical_bear": true,
         "price_date": "2026-08-14",
@@ -3485,7 +3485,7 @@
       {
         "ticker": "RCL",
         "latest": 305.0,
-        "high_52w": 360.3391,
+        "high_52w": 360.339,
         "drawdown_pct": -15.36,
         "technical_bear": false,
         "price_date": "2026-08-14",
@@ -3557,7 +3557,7 @@
       {
         "ticker": "ROL",
         "latest": 36.2,
-        "high_52w": 65.3972,
+        "high_52w": 65.3971,
         "drawdown_pct": -44.65,
         "technical_bear": true,
         "price_date": "2026-08-14",
@@ -5081,7 +5081,7 @@
       {
         "ticker": "META",
         "latest": 589.85,
-        "high_52w": 793.6488,
+        "high_52w": 793.6489,
         "drawdown_pct": -25.68,
         "technical_bear": true,
         "price_date": "2026-08-14",
@@ -5252,7 +5252,7 @@
       {
         "ticker": "PYPL",
         "latest": 61.66,
-        "high_52w": 78.5349,
+        "high_52w": 78.5348,
         "drawdown_pct": -21.49,
         "technical_bear": true,
         "price_date": "2026-08-14",
@@ -5732,7 +5732,7 @@
       {
         "ticker": "ACRE",
         "latest": 4.72,
-        "high_52w": 5.5192,
+        "high_52w": 5.5193,
         "drawdown_pct": -14.48,
         "technical_bear": false,
         "price_date": "2026-08-14",
@@ -5813,8 +5813,8 @@
       {
         "ticker": "ADIG",
         "latest": 21.24,
-        "high_52w": 30.99,
-        "drawdown_pct": -31.46,
+        "high_52w": 29.18,
+        "drawdown_pct": -27.21,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -6614,8 +6614,8 @@
       {
         "ticker": "APAM",
         "latest": 42.18,
-        "high_52w": 43.9977,
-        "drawdown_pct": -4.13,
+        "high_52w": 44.1362,
+        "drawdown_pct": -4.43,
         "technical_bear": false,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -7532,7 +7532,7 @@
       {
         "ticker": "BDC",
         "latest": 135.9,
-        "high_52w": 159.8554,
+        "high_52w": 159.8555,
         "drawdown_pct": -14.99,
         "technical_bear": false,
         "price_date": "2026-08-14",
@@ -7892,8 +7892,8 @@
       {
         "ticker": "BMBL",
         "latest": 2.71,
-        "high_52w": 7.37,
-        "drawdown_pct": -63.23,
+        "high_52w": 7.32,
+        "drawdown_pct": -62.98,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -8144,8 +8144,8 @@
       {
         "ticker": "BTU",
         "latest": 25.48,
-        "high_52w": 40.8845,
-        "drawdown_pct": -37.68,
+        "high_52w": 41.0105,
+        "drawdown_pct": -37.87,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -9638,8 +9638,8 @@
       {
         "ticker": "CSW",
         "latest": 345.15,
-        "high_52w": 355.483,
-        "drawdown_pct": -2.91,
+        "high_52w": 354.71,
+        "drawdown_pct": -2.7,
         "technical_bear": false,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -10169,8 +10169,8 @@
       {
         "ticker": "DFIN",
         "latest": 48.99,
-        "high_52w": 57.88,
-        "drawdown_pct": -15.36,
+        "high_52w": 58.45,
+        "drawdown_pct": -16.18,
         "technical_bear": false,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -11060,8 +11060,8 @@
       {
         "ticker": "EVEX",
         "latest": 2.73,
-        "high_52w": 5.16,
-        "drawdown_pct": -47.09,
+        "high_52w": 6.04,
+        "drawdown_pct": -54.8,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -11114,8 +11114,8 @@
       {
         "ticker": "EVTC",
         "latest": 31.57,
-        "high_52w": 37.2348,
-        "drawdown_pct": -15.21,
+        "high_52w": 37.5033,
+        "drawdown_pct": -15.82,
         "technical_bear": false,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -11402,8 +11402,8 @@
       {
         "ticker": "FG",
         "latest": 27.42,
-        "high_52w": 34.4409,
-        "drawdown_pct": -20.39,
+        "high_52w": 34.6681,
+        "drawdown_pct": -20.91,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -11789,8 +11789,8 @@
       {
         "ticker": "FSBC",
         "latest": 46.75,
-        "high_52w": 50.26,
-        "drawdown_pct": -6.98,
+        "high_52w": 49.9937,
+        "drawdown_pct": -6.49,
         "technical_bear": false,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -12050,8 +12050,8 @@
       {
         "ticker": "GCMG",
         "latest": 13.86,
-        "high_52w": 14.866,
-        "drawdown_pct": -6.77,
+        "high_52w": 14.375,
+        "drawdown_pct": -3.58,
         "technical_bear": false,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -12248,8 +12248,8 @@
       {
         "ticker": "GLOB",
         "latest": 37.38,
-        "high_52w": 79.655,
-        "drawdown_pct": -53.07,
+        "high_52w": 79.67,
+        "drawdown_pct": -53.08,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -12482,8 +12482,8 @@
       {
         "ticker": "GSHD",
         "latest": 66.29,
-        "high_52w": 90.16,
-        "drawdown_pct": -26.48,
+        "high_52w": 90.79,
+        "drawdown_pct": -26.99,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -12545,8 +12545,8 @@
       {
         "ticker": "GTY",
         "latest": 33.18,
-        "high_52w": 36.67,
-        "drawdown_pct": -9.52,
+        "high_52w": 36.83,
+        "drawdown_pct": -9.91,
         "technical_bear": false,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -12590,8 +12590,8 @@
       {
         "ticker": "HAFC",
         "latest": 32.44,
-        "high_52w": 33.5,
-        "drawdown_pct": -3.16,
+        "high_52w": 33.2058,
+        "drawdown_pct": -2.31,
         "technical_bear": false,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -12743,8 +12743,8 @@
       {
         "ticker": "HIFS",
         "latest": 309.33,
-        "high_52w": 337.2565,
-        "drawdown_pct": -8.28,
+        "high_52w": 336.5114,
+        "drawdown_pct": -8.08,
         "technical_bear": false,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -12941,8 +12941,8 @@
       {
         "ticker": "HPK",
         "latest": 7.43,
-        "high_52w": 9.129,
-        "drawdown_pct": -18.61,
+        "high_52w": 8.56,
+        "drawdown_pct": -13.2,
         "technical_bear": false,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -14021,7 +14021,7 @@
       {
         "ticker": "KAI",
         "latest": 334.22,
-        "high_52w": 353.263,
+        "high_52w": 353.2631,
         "drawdown_pct": -5.39,
         "technical_bear": false,
         "price_date": "2026-08-14",
@@ -14129,8 +14129,8 @@
       {
         "ticker": "KLC",
         "latest": 2.6,
-        "high_52w": 7.77,
-        "drawdown_pct": -66.54,
+        "high_52w": 8.27,
+        "drawdown_pct": -68.56,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -15668,8 +15668,8 @@
       {
         "ticker": "MNTN",
         "latest": 12.52,
-        "high_52w": 23.25,
-        "drawdown_pct": -46.15,
+        "high_52w": 23.44,
+        "drawdown_pct": -46.59,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -15695,8 +15695,8 @@
       {
         "ticker": "MPB",
         "latest": 38.43,
-        "high_52w": 39.15,
-        "drawdown_pct": -1.84,
+        "high_52w": 38.9151,
+        "drawdown_pct": -1.25,
         "technical_bear": false,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -15722,8 +15722,8 @@
       {
         "ticker": "MQ",
         "latest": 16.335,
-        "high_52w": 25.852,
-        "drawdown_pct": -36.81,
+        "high_52w": 26.2,
+        "drawdown_pct": -37.65,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -17369,8 +17369,8 @@
       {
         "ticker": "OVLY",
         "latest": 34.07,
-        "high_52w": 35.97,
-        "drawdown_pct": -5.28,
+        "high_52w": 35.5718,
+        "drawdown_pct": -4.22,
         "technical_bear": false,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -17693,8 +17693,8 @@
       {
         "ticker": "PEBO",
         "latest": 41.38,
-        "high_52w": 42.29,
-        "drawdown_pct": -2.15,
+        "high_52w": 42.13,
+        "drawdown_pct": -1.78,
         "technical_bear": false,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -17918,8 +17918,8 @@
       {
         "ticker": "PLAY",
         "latest": 10.19,
-        "high_52w": 26.675,
-        "drawdown_pct": -61.8,
+        "high_52w": 26.72,
+        "drawdown_pct": -61.86,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -18044,8 +18044,8 @@
       {
         "ticker": "PMTS",
         "latest": 28.5,
-        "high_52w": 31.25,
-        "drawdown_pct": -8.8,
+        "high_52w": 31.0,
+        "drawdown_pct": -8.06,
         "technical_bear": false,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -18368,8 +18368,8 @@
       {
         "ticker": "PTLO",
         "latest": 5.16,
-        "high_52w": 7.955,
-        "drawdown_pct": -35.14,
+        "high_52w": 8.14,
+        "drawdown_pct": -36.61,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -19052,8 +19052,8 @@
       {
         "ticker": "RNAC",
         "latest": 8.84,
-        "high_52w": 11.8,
-        "drawdown_pct": -25.08,
+        "high_52w": 12.25,
+        "drawdown_pct": -27.84,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -19367,8 +19367,8 @@
       {
         "ticker": "SAMG",
         "latest": 10.18,
-        "high_52w": 15.9356,
-        "drawdown_pct": -36.12,
+        "high_52w": 15.9921,
+        "drawdown_pct": -36.34,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -20240,8 +20240,8 @@
       {
         "ticker": "SPRY",
         "latest": 5.65,
-        "high_52w": 15.715,
-        "drawdown_pct": -64.05,
+        "high_52w": 16.65,
+        "drawdown_pct": -66.07,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -20384,7 +20384,7 @@
       {
         "ticker": "STC",
         "latest": 68.2,
-        "high_52w": 76.7904,
+        "high_52w": 76.7903,
         "drawdown_pct": -11.19,
         "technical_bear": false,
         "price_date": "2026-08-14",
@@ -20924,8 +20924,8 @@
       {
         "ticker": "TGLS",
         "latest": 41.84,
-        "high_52w": 82.731,
-        "drawdown_pct": -49.43,
+        "high_52w": 82.7608,
+        "drawdown_pct": -49.44,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -21167,8 +21167,8 @@
       {
         "ticker": "TRAX",
         "latest": 44.04,
-        "high_52w": 49.91,
-        "drawdown_pct": -11.76,
+        "high_52w": 49.58,
+        "drawdown_pct": -11.17,
         "technical_bear": false,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -21248,8 +21248,8 @@
       {
         "ticker": "TRON",
         "latest": 1.52,
-        "high_52w": 7.114,
-        "drawdown_pct": -78.63,
+        "high_52w": 8.09,
+        "drawdown_pct": -81.21,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -21293,8 +21293,8 @@
       {
         "ticker": "TRUP",
         "latest": 30.6,
-        "high_52w": 50.06,
-        "drawdown_pct": -38.87,
+        "high_52w": 51.775,
+        "drawdown_pct": -40.9,
         "technical_bear": true,
         "price_date": "2026-08-14",
         "price_source": "yahoo"
@@ -23345,7 +23345,7 @@
       {
         "ticker": "META",
         "latest": 589.85,
-        "high_52w": 793.6488,
+        "high_52w": 793.6489,
         "drawdown_pct": -25.68,
         "technical_bear": true,
         "price_date": "2026-08-14",
