@@ -24,3 +24,7 @@ python scripts/update_technical_bear_breadth.py --sleep 0.05
 ```
 
 The default price source is Yahoo Finance chart data. Tiingo remains optional and is not required for the dashboard.
+
+## Project Operations
+
+Codex and contributor operating rules are in `AGENTS.md`. Recovery, environment, deployment, and migration context are in `MIGRATION_HANDOFF.md`.
